@@ -1,6 +1,6 @@
-name: protractor-typescript-ts-node-jasmine-assert
+name: protractor-typescript-ts-node-mocha-assert
 
-on: 
+on:
   push:
   schedule:
     - cron: '0 0 2-30/2 * *'
