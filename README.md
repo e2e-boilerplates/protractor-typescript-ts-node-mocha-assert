@@ -6,8 +6,8 @@ Protractor end-to-end test automation boilerplate, using TypeScript, ts-node, Mo
 
 ## Getting Started
 
-git clone git@github.com:e2e-boilerplate/protractor-typescript-ts-node-mocha-assert.git
-cd protractor-typescript-ts-node-mocha-assert
-npm install
-npm run update-webdriver
-npm run test
+    	git clone git@github.com:e2e-boilerplate/protractor-typescript-ts-node-mocha-assert.git
+    	cd protractor-typescript-ts-node-mocha-assert
+    	npm install
+    	npm run update-webdriver
+    	npm run test
