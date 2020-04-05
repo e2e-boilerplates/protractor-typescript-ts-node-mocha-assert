@@ -4,6 +4,7 @@ import { browser, by, element } from "protractor";
 
 describe("Sandbox", () => {
   before(() => {
+    this.timeout(5000);
     browser.get("https://e2e-boilerplate.github.io/sandbox/");
   });
 
