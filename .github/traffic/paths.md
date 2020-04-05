@@ -1,0 +1,12 @@
+| referrer                                                                          | count | uniques |
+| :-------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert                       | 6     | 2       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions               | 5     | 2       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/runs/542793445        | 2     | 2       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions/runs/67000590 | 2     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/runs/526314699        | 2     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/runs/547380498        | 2     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions/runs/61098587 | 1     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions/runs/61104125 | 1     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions/runs/65373905 | 1     | 1       |
+| /e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/actions/runs/65663711 | 1     | 1       |
