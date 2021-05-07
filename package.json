@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/protractor-typescript-ts-node-mocha-assert/issues"
   },
   "dependencies": {
-    "mocha": "8.3.2",
+    "mocha": "8.4.0",
     "protractor": "7.0.0",
     "ts-node": "9.1.1",
     "typescript": "4.2.4"
